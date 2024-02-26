@@ -1,0 +1,6 @@
+HTML Image Maps
+With HTML image maps, you can create clickable areas on an image.
+
+Use online image map generators! and add javascript onclick function to use that area.
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/map
+
