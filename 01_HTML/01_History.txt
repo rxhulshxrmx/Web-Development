@@ -1,0 +1,13 @@
+The use of "index" in this context can be traced back to the early days of the web. Web servers(Apache2) were configured to look for a default file to serve when a user accessed a directory without specifying a particular file. The choice of "index.html" became a common default filename, and it has stuck as a convention over the years.
+
+HTML is a simple and declarative syntactical language, commonly known as a structural language. Its primary role is defining the structure of web pages.
+
+The distinction between h1 and h2 tags goes beyond visual size. These HTML tags establish a semantic hierarchy for content, with h1 as the highest importance (typically the main title) and h2 as a subordinate heading. This semantic structure enhances accessibility and aids in SEO.
+
+HTML tags are case-insensitive, allowing flexibility in writing them in uppercase, lowercase, or a combination. For instance, <html>, <HTML>, and <HtMl> are all interpreted the same way by the browser.
+
+Additionally, the "title" tag in the head section affects the browser's title bar or tab, while the "favicon" (shortcut icon) is a small image displayed next to the title in the browser tab or window.
+
+ In HTML, most tags require a closing tag, but there are exceptions. Some tags, like <br> (line break), <img> (image), and <input> (input fields), are self-closing, meaning they don't need a separate closing tag.
+
+In React, which uses JSX syntax, it enforces a strict XML-like syntax. So, even for tags like <br>, you should use a self-closing syntax like <br /> to avoid potential errors.
