@@ -1,0 +1,6 @@
+/* To link CSS file to html! Go to head of ftml file and write link.css (Shortcut) */
+
+body{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
