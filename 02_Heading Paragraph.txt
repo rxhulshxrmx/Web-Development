@@ -1,0 +1,32 @@
+We can do nesting inside Element
+Tags: 
+
+    1.Meta Tag:meta tags are HTML tags used to provide additional information about a page to search engines and other clients.
+    https://developers.google.com/search/docs/crawling-indexing/special-tags
+
+    2. Anchor Tag: To open link
+    <a href="#">xyz</a> 
+    Emmet Shortcut: (a:)
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+
+Shortcut:
+Alt + Cursor click ==> multiple text curser
+lorem(required words)
+Shift + Alt + Down/Up arrow key : Duplicate current line
+Alt + z: Word Wrap
+
+    3. Heading Tag
+        h1 - h6
+    
+    4. Paragraph
+        <p> This is
+            <br /> //Line break
+            <hr /> //Horizontal Line
+         something </p>
+
+    5. Pre Tag:
+    Browser Default setting. Keep everything as it is (Formatting)
+    //Mostly used for writing code
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre
+
+
